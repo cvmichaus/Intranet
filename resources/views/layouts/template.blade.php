@@ -91,7 +91,7 @@
                         </div>
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Intranet HAQ tiene proposito brindar informacion y otorga herramientas para los empleados</p>
+                        <p class="text-white-75 mb-5 font-weight-bold">La Intranet HAQ tiene como proposito brindar informacion y otorgar herramientas para los empleados</p>
                         <a class="btn btn-primary btn-xl" href="#portfolio">Ver Sistemas</a>
                     </div>
                 </div>
@@ -241,7 +241,7 @@
 
             <div class="container-fluid p-0">
                 <div class="row g-0">
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.1.2.120/mayudausr/login.php" title="Mesa de Ayuda" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/mesadeayuda.png" alt="..." />
                             <div class="portfolio-box-caption">
@@ -250,7 +250,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.69.2.1/micro3_tabs_25/app_Login/app_Login.php" title="Sistema de Microbiologia" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/microtabs.png" alt="..." />
                             <div class="portfolio-box-caption">
@@ -259,7 +259,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/3.jpg" title="Project Name" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/microtabs.png" alt="..." />
                             <div class="portfolio-box-caption">
@@ -268,7 +268,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.69.2.1/vacunas3/app_Login/app_Login.php" title="Sistema Vacunas" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/vacunas3.png" alt="..." />
                             <div class="portfolio-box-caption">
@@ -277,7 +277,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.69.2.3/tarificador" title="Tarificador" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/5.jpg" alt="..." />
                             <div class="portfolio-box-caption">
@@ -286,7 +286,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.69.2.1/web/" title="Agenda" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/agenda.png" alt="..." />
                             <div class="portfolio-box-caption p-3">
@@ -295,7 +295,7 @@
                             </div>
                         </a>
                     </div>
-                     <div class="col-lg-3 col-sm-6">
+                     <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.69.2.1/sghaq.php" title="SISTEMA GLOBAL SGHAQ" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/sghaq.png" alt="..." />
                             <div class="portfolio-box-caption p-3">
@@ -305,7 +305,7 @@
                         </a>
                     </div>
 
-                     <div class="col-lg-3 col-sm-6">
+                     <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.69.2.1/glpi/" title="GLPI" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/glpi.png" alt="..." />
                             <div class="portfolio-box-caption p-3">
@@ -315,7 +315,7 @@
                         </a>
                     </div>
 
-                     <div class="col-lg-3 col-sm-6">
+                     <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.69.2.1/ocsreports/" title="OCS INVENTORY" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/ocs.png" alt="..." />
                             <div class="portfolio-box-caption p-3">
@@ -325,7 +325,7 @@
                         </a>
                     </div>
 
-                     <div class="col-lg-3 col-sm-6">
+                     <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="http://10.69.2.1/collabtive/" title="Project HAQ" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/projecthaq.png" alt="..." />
                             <div class="portfolio-box-caption p-3">
@@ -335,7 +335,7 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-2 col-sm-6">
                         <a class="portfolio-box" href="https://gass.vidal-consult.com/login/force_login/session_expired" title="VADEMECUM" target="blank">
                             <img class="img-fluid w-full h-80 bg-cover bg-center" src="assets/img/portfolio/thumbnails/vidal.png" alt="..." />
                             <div class="portfolio-box-caption p-3">
